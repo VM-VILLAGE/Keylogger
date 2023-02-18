@@ -1,7 +1,5 @@
 # Keylogger
  Keylogger written in Python. Good AV evasion results. 
- 
-For more information on this tool please visit my website https://www.vmvillage.com/keylogger
 
 Big thanks to https://www.stationx.net/ for being a fantastic repo of education within cyber security.
 
